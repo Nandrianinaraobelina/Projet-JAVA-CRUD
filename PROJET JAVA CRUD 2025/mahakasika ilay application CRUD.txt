@@ -1,0 +1,5 @@
+IRETO NO CONNECTOR NAMPESAINA SATRIA NY NETBEANS EFA MIAVAHO KA NY DERNIERE VERSION NALAINA:
+
+              -mysql-connector-j-9.1.0 .jar
+              -mysql-connector-java-8.0.26.zip
+
